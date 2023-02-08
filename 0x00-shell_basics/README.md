@@ -1,1 +1,1 @@
-long format hidden and displayed numericaly
+diplay in a long format and numerically
