@@ -1,1 +1,1 @@
-moving commands
+removing command
