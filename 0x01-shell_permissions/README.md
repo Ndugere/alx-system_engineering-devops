@@ -1,1 +1,1 @@
-Printing all Groups one is in
+Changing ownership command
