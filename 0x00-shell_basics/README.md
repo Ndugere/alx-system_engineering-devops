@@ -1,1 +1,1 @@
- File type
+sybol fulani
