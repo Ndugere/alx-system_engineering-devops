@@ -1,1 +1,1 @@
-giving the user the power to execute the named file
+mutile user power
