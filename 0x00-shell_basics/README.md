@@ -1,1 +1,1 @@
-Kitu ngumu
+kujaribu upye
