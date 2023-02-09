@@ -1,1 +1,1 @@
-giving the user the power to execute the named file
+Huyu owner hana power ni kila mtu ako na power
