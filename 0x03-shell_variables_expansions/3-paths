@@ -1,3 +1,2 @@
 #!/bin/bash
-# Split $PATH using ":" as delimiter, even handling empty entries
-echo "$PATH" | tr ':' '\n' | grep -cv '^$'
+echo $PATH | tr ':' '\n' | wc -l
